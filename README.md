@@ -1,2 +1,2 @@
 # blinkit
-A blinkit app
+A blinkit app sample
